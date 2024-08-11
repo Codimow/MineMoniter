@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "chart.js": "^3.5.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "discord.js": "^14.15.3",
+    "fs": "^0.0.1-security",
+    "minecraft-query": "^1.0.13",
+    "minecraft-server-util": "^5.4.4",
+    "node-schedule": "^2.1.1",
+    "path": "^0.12.7"
+  }
+}
